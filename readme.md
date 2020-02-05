@@ -1,5 +1,4 @@
 # Chinchilla Scratch Game
---
 This is my Project 0 for CS50 (Introduction to Computer Science, Harvard University). The task was to create a game using Scratch.
 
 ## Getting Started
